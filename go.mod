@@ -1,4 +1,4 @@
-module github.com/konsultin/natsk
+module github.com/go-konsultin/natsk
 
 go 1.23.0
 
